@@ -23,11 +23,9 @@ This project was developed collaboratively during the Masai Hackathon, emphasizi
 
 | Name | Role | GitHub |
 |------|------|--------|
-| **Rajesh Gupta** | Full Stack Developer / Team Lead | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev) |
-| **Ankit Kumar** | Frontend Developer | [@ankit-kumar](https://github.com/) |
-| **Rupyam Das** | Backend Developer | [@rupyam-das](https://github.com/) |
-
-*(Update GitHub links as needed.)*
+| **Ankit Kumar** | Backend Developer / Team Lead  | [@ankit-kumar](https://github.com/) |
+| **Rajesh Gupta** | Full Stack Developer | [@rajeshgupta-dev](https://github.com/rajeshgupta-dev) |
+| **Rupyam Das** |  Frontend Developer | [@rupyam-das](https://github.com/) |
 
 ---
 
